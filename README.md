@@ -15,7 +15,8 @@ This repository is designed to help you **learn, practice, and showcase** core f
 ## 📂 Project Categories
 
 * **[Form Validation](https://github.com/tushar-asodariya/exploring_html_css/tree/main/form_validator)** 
-    ![Demo](https://github.com/tushar-asodariya/exploring_html_css/blob/main/form_validator/form_validator_demo.gif)
+
+![Demo](https://github.com/tushar-asodariya/exploring_html_css/blob/main/form_validator/form_validator_demo.gif)
 
 
 ## 🎯 Who is this for?
