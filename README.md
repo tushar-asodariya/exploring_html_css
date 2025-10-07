@@ -18,6 +18,10 @@ This repository is designed to help you **learn, practice, and showcase** core f
 
 ![Demo](https://github.com/tushar-asodariya/exploring_html_css/blob/main/form_validator/form_validator_demo.gif)
 
+* **[Movie Seat Booking](https://github.com/tushar-asodariya/exploring_html_css/tree/main/movie_seat_booking)** 
+
+![Demo](https://github.com/tushar-asodariya/exploring_html_css/blob/main/movie_seat_booking/movie_seat_booking_demo.gif)
+
 
 ## 🎯 Who is this for?
 
